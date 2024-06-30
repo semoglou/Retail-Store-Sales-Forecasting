@@ -44,4 +44,4 @@ This method led to the selection of **XGBoost** as the most effective model. It 
 ***
 
 ### Achievement 🏆
-Achieved the lowest error metrics across all models, setting a new standard of excellence in sales forecasting during my internship.
+Achieved the highest R² Score and lowest error metrics across all models, setting a new standard of excellence in sales forecasting during my internship.

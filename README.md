@@ -27,7 +27,7 @@ I streamlined the dataset and enhanced it with several engineered features to op
 ### Models & Evaluation
 
 Implemented multiple models and evaluated them to find the most effective approach:
-- **Models Used**: Decision Tree, Random Forest, LightGBM, Elastic Net, KNN, Gradient Boost, CatBoost, XGBoost
+- **Models Used**: Decision Tree, Random Forest, LightGBM, Elastic Net, K-Nearest Neighbors (KNN), Gradient Boost, CatBoost, XGBoost
 - **Evaluation Metrics**: R² Score, MAE, MSE, RMSE, MAPE
 
 ***

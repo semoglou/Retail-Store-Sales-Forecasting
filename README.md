@@ -1,10 +1,13 @@
 # Retail Store Sales Forecasting
 
-This repository details my work on ML Sales Forecasting using Kaggle's WOMart Data Set, completed during my internship as a Machine Learning Engineer. The project involves applying advanced machine learning techniques to forecast sales, providing valuable business insights.
+This repository details my work on ML Sales Forecasting, completed during my internship as a Machine Learning Engineer. The project involves applying advanced machine learning techniques to forecast sales, providing valuable business insights.
 
 ***
 
 ## Overview
+
+### The Data Set
+The forecasting model relies on the WOMart Data Set, available from Kaggle. For more details and to access the data, please visit [Kaggle's WOMart Data Set](https://www.kaggle.com/datasets/shelvigarg/sales-forecasting-womart-store).
 
 ### Objectives
 - To develop a predictive model that can accurately forecast future sales.

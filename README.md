@@ -38,7 +38,7 @@ Implemented multiple models and evaluated them to find the most effective approa
 
 - **Iterative Process Using Predicted Lags**: After the initial assessment, the process involved using the models to forecast new lag values, which were then used as inputs in a continuous feedback loop. This approach simulated real-time forecasting and provided deeper insights into each model's practical performance under conditions where direct historical data was not available.
 
-This method led to the selection of **XGBoost** as the most effective model. It not only showed superior performance with historical data but also proved to be the most reliable when utilizing dynamically predicted lag values for forecasting future trends. The model's robustness in handling predicted lags solidified its practical applicability in real-world scenarios.
+This method led to the selection of **XGBoost** as the most effective model. It not only showed superior performance with historical data but also proved to be the most reliable when utilizing dynamically predicted lag values for forecasting future sales. The model's robustness in handling predicted lags solidified its practical applicability in real-world scenarios.
 
 
 ***
